@@ -7,7 +7,10 @@ The main goal of our project is implementing page rank algorithms on AWS cloud. 
 
 1. Data Preprocess Files:
   DataScraper.ipynb (Data Collection)
+  
   BuildGraph.ipynb (Build Graph and Edges for URLs)
+  
   ExtractDomain.ipynb (Extract Domain URLs from Original Query URLs)
+  
   
 2. Mapper and Reducer File: MapperAndReducer.ipynb
