@@ -20,3 +20,6 @@ The main goal of our project is implementing page rank algorithms on AWS cloud. 
     
 3. Visualization File:
     Network_viz.html
+
+## Report
+   Kungfu4.pdf
