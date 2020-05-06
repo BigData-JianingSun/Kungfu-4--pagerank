@@ -17,3 +17,6 @@ The main goal of our project is implementing page rank algorithms on AWS cloud. 
 2. Mapper and Reducer File: 
 
     MapperAndReducer.ipynb
+    
+3. Visualization File:
+    Network_viz.html
